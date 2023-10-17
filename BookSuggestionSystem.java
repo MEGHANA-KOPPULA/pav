@@ -16,3 +16,4 @@ public class BookSuggestionSystem {
             System.out.println("Genre: " + genre + ", Book Link: " + link);
         }
     }
+}
