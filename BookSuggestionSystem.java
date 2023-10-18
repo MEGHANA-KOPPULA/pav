@@ -41,7 +41,7 @@ public class BookSuggestionSystem {
             String genre = bookData.get("Genre");
             String name = bookData.get("Name");
             String link = bookData.get("Link");
-            System.out.println("Genre: " + genre + " Name: " + name + ", Book-Link: " + link);
+            System.out.println("Genre: " + genre + ", Name: " + name + ", Book-Link: " + link);
         }
     }
 }
